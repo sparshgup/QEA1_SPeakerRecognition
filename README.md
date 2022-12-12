@@ -4,3 +4,7 @@ Quantitative Engineering Analysis 1 - Fall 2022
 Olin College of Engineering, Needham, MA
 
 Sparsh Gupta & Ian Walsh
+
+Implemented in MATLAB
+
+Dataset used: Spoken Digit Audio Dataset, retrieved from https://github.com/Jakobovski/free-spoken-digit-dataset
