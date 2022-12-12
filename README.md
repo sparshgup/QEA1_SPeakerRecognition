@@ -1,10 +1,10 @@
 # Speaker Recognition using MFCC, FFT, & Eigendecomposition
 
- Quantitative Engineering Analysis 1 - Fall 2022
+Quantitative Engineering Analysis 1 - Fall 2022
 
- Olin College of Engineering, Needham, MA
+Olin College of Engineering, Needham, MA
 
-### Sparsh Gupta & Ian Walsh
+Sparsh Gupta & Ian Walsh
 
 
 Implemented in MATLAB
